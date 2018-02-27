@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_img-circle</name>
+   <tag></tag>
+   <elementGuidId>e9c3b61d-bf14-4801-8f9b-5c00ccf5e3d9</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://beerboard.com/assets/default-avatar-7e205b8763a024a259ddf096428638da.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;tablesaw-enhanced&quot;]/body[@class=&quot;page-header-fixed page-sidebar-closed-hide-logo page-container-bg-solid&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;div ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/header[@class=&quot;page-header ng-scope&quot;]/nav[@class=&quot;navbar mega-menu&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;clearfix navbar-fixed-top&quot;]/div[@class=&quot;topbar-actions&quot;]/div[@class=&quot;btn-group-img btn-group&quot;]/button[@class=&quot;btn btn-sm dropdown-toggle user-pro-pic-icon&quot;]/img[@class=&quot;img-circle&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
